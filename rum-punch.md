@@ -1,5 +1,7 @@
-# rum punch
+# Rum Punch
+Stolen from a run distillery in Barbados
 
+# Ingredients
 - 1 cup lime juice
 - 1 cup orange juice
 - 2 cups simple syrup
