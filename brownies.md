@@ -1,13 +1,13 @@
 # Brownies
 ## Ingredients:
-- 8 Tbs. (1 stick) unsalted butter, cut into 4 pieces
-- 3 oz. unsweetened chocolate, finely chopped
-- 1 cup sugar
-- Pinch of salt
-- 2 eggs, at room temperature
-- 1 tsp. vanilla extract
-- 3/4 cup cake flour, sifted
-- 3/4 cup bittersweet chocolate chips, semisweet chocolate chips, peanut butter chips or white chocolate chips (optional)
+1. 8 Tbs. (1 stick) unsalted butter, cut into 4 pieces
+2. 3 oz. unsweetened chocolate, finely chopped
+3. 1 cup sugar
+4. Pinch of salt
+5. 2 eggs, at room temperature
+6. 1 tsp. vanilla extract
+7. 3/4 cup cake flour, sifted
+8. 3/4 cup bittersweet chocolate chips, semisweet chocolate chips, peanut butter chips or white chocolate chips (optional)
 ## Directions:
 1. Preheat an oven to 350°F. Lightly grease an 8-inch square baking dish, preferably glass.
 2. In a saucepan over low heat, combine the butter and unsweetened chocolate. Heat, stirring often, until melted, about 4 minutes. Remove from the heat and stir in the sugar and salt. Add the eggs and vanilla and stir until well blended. Sprinkle the flour over the mixture and stir until just blended. Stir in the chips.
