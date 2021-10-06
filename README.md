@@ -1,7 +1,7 @@
 # Recipes
 ## Contents
 [Rum Punch](rum-punch.md)
-
+[Cereal](cereal recipe.md)
 [Margarita](./marg.md)
 ## Instructions
 1. Create a [new branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
