@@ -2,6 +2,7 @@
 ## Contents
 - [Rum Punch](rum-punch.md)
 - [Brownies](brownies.md)
+- [Margarita](./marg.md)
 ## Instructions
 1. Create a [new branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
 2. Add a new [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) file with your recipe
