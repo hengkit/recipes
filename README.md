@@ -1,8 +1,9 @@
 # Recipes
 ## Contents
-- [Rum Punch](rum-punch.md)
-- [Brownies](brownies.md)
-- [Margarita](./marg.md)
+[Rum Punch](rum-punch.md)
+[Cereal](cereal recipe.md)
+[Margarita](./marg.md)
+[Brownies](brownies.md)
 ## Instructions
 1. Create a [new branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) 
 2. Add a new [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) file with your recipe
